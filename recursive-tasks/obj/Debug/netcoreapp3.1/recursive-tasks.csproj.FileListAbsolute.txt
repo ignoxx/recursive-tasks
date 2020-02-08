@@ -1,0 +1,11 @@
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/bin/Debug/netcoreapp3.1/recursive-tasks
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/bin/Debug/netcoreapp3.1/recursive-tasks.deps.json
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/bin/Debug/netcoreapp3.1/recursive-tasks.runtimeconfig.json
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/bin/Debug/netcoreapp3.1/recursive-tasks.runtimeconfig.dev.json
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/bin/Debug/netcoreapp3.1/recursive-tasks.dll
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/bin/Debug/netcoreapp3.1/recursive-tasks.pdb
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/obj/Debug/netcoreapp3.1/recursive-tasks.csprojAssemblyReference.cache
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/obj/Debug/netcoreapp3.1/recursive-tasks.AssemblyInfoInputs.cache
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/obj/Debug/netcoreapp3.1/recursive-tasks.AssemblyInfo.cs
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/obj/Debug/netcoreapp3.1/recursive-tasks.dll
+/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/obj/Debug/netcoreapp3.1/recursive-tasks.pdb
