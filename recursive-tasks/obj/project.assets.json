@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/recursive-tasks.csproj",
+      "projectUniqueName": "/home/ignas/Documents/GitHub/recursive-tasks/recursive-tasks/recursive-tasks.csproj",
       "projectName": "recursive-tasks",
-      "projectPath": "/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/recursive-tasks.csproj",
+      "projectPath": "/home/ignas/Documents/GitHub/recursive-tasks/recursive-tasks/recursive-tasks.csproj",
       "packagesPath": "/home/ignas/.nuget/packages/",
-      "outputPath": "/home/ignas/RiderProjects/recursive-tasks/recursive-tasks/obj/",
+      "outputPath": "/home/ignas/Documents/GitHub/recursive-tasks/recursive-tasks/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ignas/.config/NuGet/NuGet.Config"
+        "/home/ignas/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -51,12 +51,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
       }
     }
   }
